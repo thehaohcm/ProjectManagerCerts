@@ -1,0 +1,92 @@
+1. Initiating process group outputs
+- Project charter
+- Identification of stakeholders
+
+2. Type of phase-to-phase relationships
+- Sequential relationships
+- Overlapping relationships
+
+3. Sequential relationships
+- One phase must finish before the next phase can begin
+
+4. Project management process groups
+- Initiating
+- Planning
+- Executing
+- Monitoring and controlling
+- Closing
+
+5. Portfolio focus
+- Area of focus: 
+  + Optimizing
+  + Efficiencies
+  + Objectives
+  + Costs
+  + Resources
+  + Risks
+  + Schedules
+  
+6. Supportive PMO
+- Low level of control
+  + Consulting: templates project repository
+  
+7. Projectized organization
+- Team members are co-located (physically work at the same location)
+- Project teams are dissolved at the conclusion of the project
+
+8. Project Management
+- Brings together a set of tools and techniques performedby people to describe, organize and monitor the work of project activities
+
+9. Project based organizations
+- Measures the success of the final product, service or result of the project by bypassing politics and positions
+
+10. Project
+- Produce a unique product, service or result
+- Completed when goals and objectives have been met and signed off by stakeholders or when the project is terminated
+
+11. Tailoring
+- Project manager and team are resonsible for determining which processses within each process group are appropriate for the project being worked on
+
+12. Planning process group
+- Encompasses all areas of project management and considers budgets, activity definition, scope planning, schedule development, risk identification, staff acquisition, procurement planning and more
+- Greatest conflict encountered will be project prioritization issues
+
+13. Project life cycle
+- All the collective phases the project progresses through in concert
+- Are similar for all projects regardless of size and complexity
+- Most consist of the following structure
+
+14. Predictive life cycle
+- Scope is defined at the beginning of the project and changes are monitored closely
+- If changes are made, plans must be modified
+
+15. Directive PMO
+- High level of control
+  Controlling: PMO manages projects
+  
+16. Matrix organization
+- Project managers are responsible for executing the project and giving out work assignments
+- Functional managers pick up the administrative portion of the duties and assign employees to projects
+
+17. Portfoio management tasks 
+- Assuring resources are available
+- Monitor organizational planning activities of the organization to help prioritize projects according to fund availabilit, risk, strategic mission, etc.
+
+18. Monitoring and Controlling process group
+- Where project perfomance measurements are taken and analyzed to determine whether the project is staying true to the porject management plan
+
+19. Program
+- Helps capitalize on benefits unachievable if projects were managed separately
+
+20. Program
+- Groups of related projects, subprograms or other works that are managed using similar techniques in a coordinated fashion
+
+
+
+
+
+
+Projectized organization
+Phase end review
+Monitoring and Controlling process group
+Initiating process group
