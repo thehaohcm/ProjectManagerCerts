@@ -1,1 +1,1 @@
-![alt text](https://github.com/thehaohcm/ProjectManagerCerts/blob/master/Product-Owner/Profesional-Scrum-Product-Owner-I-Cert.png)
+![alt text](https://github.com/thehaohcm/ProjectManagerCerts/blob/master/Product-Owner/Professional-Scrum-Product-Owner-I-cert.png)
