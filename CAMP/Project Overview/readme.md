@@ -82,3 +82,48 @@ The assumption and constraint analysis makes certain that the assumptions and co
 Governance is the framework within which authority is exercised in organizations. This framework includes rules, policies, procedures, norms, relationships, systems, and processes. Governance influences how objectives of the organization are set and achieved, risk is monitored and assessed, and performance is optimized. A governance framework should be tailored to the organizational culture, types of projects, and the needs of the organization to be effective.
 
 -----
+activities for administrative closure:
+ + Ensuring all documents and deliverables are current and that all issues have been resolved
+ + Confirm delivery and formal acceptance of deliverables by the customer
+ + Verify that all costs are charged to the project
+ + Close the project accounts
+ + Reassign personnel
+ + Coordinate action with excess project material
+ + Reallocate the facilities, equipment, and other resources of the project
+ + Elaborate the final project reports as required by organizational policies
+
+----
+Analogous estimating is a technique for estimating the duration or cost of an activity or a project using historical data from a similar activity or project. It is generally less costly and less time-consuming than other forms of estimating; however, it is also the least accurate method. Analogous estimating uses professional judgment and chronological information to forecast the future.
+
+----
+There are five general techniques for resolving conflict. Each technique has its unique place and use:
+ + Collaborate/problem solve: Incorporating multiple viewpoints and insights from differing perspectives; requires a cooperative attitude and open dialogue. This approach can result in a win-win situation.
+ + Withdraw/avoid: Retreating from an actual or potential conflict situation; postponing the issue to be better prepared or to be resolved by others.
+ + Smooth/accommodate: Highlighting areas of agreement rather than areas of difference; conceding one's position to the needs of others to maintain harmony.
+ + Compromise/reconcile: Searching for solutions that bring some degree of satisfaction to all parties to temporarily or partially resolve the conflict. This is generally a lose-lose situation.
+ + Force/direct: Pushing one's viewpoint at the expense of others; offering only win-lose solutions, usually enforced through a power position. This is often a win-lose situation.
+
+While similar to smooth/accommodate, the conflict management technique being used in this scenario is collaborate/problem solve, which is used to get to the root of an issue so that it will lead to consensus and commitment.
+
+-----
+Indefinite Delivery Indefinite Quantity (IDIQ) contract provides for an indefinite quantity of goods or services at a stated lower and upper limit. IDIQ occurs within a fixed time period and is best applied to architectural, engineering, or IT engagements. 
+
+-----
+Work performance reports are physical or electronic representations of work performance information that is compiled into project documents. The performance of work performance reports is to generate decision making or raise issues, actions, or awareness. A few examples of work performance reports include status reports, memos, justifications, information notes, electronic dashboards, recommendations, and updates. 
+
+-----
+The critical path refers to the sequence or order of schedule activities that will make up the entire duration of a project. It represents the longest path through the entirety of the project, and typically, this path consists of every single activity that must be concluded from the kickoff to the ultimate conclusion of the project. Being the longest path, it is also the shortest possible duration of the project. The critical path will help the project manager to determine the length of time the project will take and where their attention would be best focused.
+
+-----
+Identify Stakeholders is the process of identifying project stakeholders regularly and analyzing and documenting relevant information regarding their interest, involvement, interdependencies, influence, and potential impact on project success. This process enables the project team to identify an appropriate focus to engage stakeholders. Identify Stakeholders is a process that will be performed throughout the project as necessary. 
+
+Manage Stakeholder Engagement is a process of communicating and working with stakeholders to meet their needs/expectations, address issues as they occur, and foster appropriate stakeholder engagement and project activities throughout the project lifecycle.
+
+Monitor Stakeholder Engagement is the process of monitoring project stakeholder relationships and tailoring strategies for engaging stakeholders through modification of engagement strategies and plans.
+
+Plan Stakeholder Engagement is the process of developing approaches to involve project stakeholders based on their needs, expectations, interest, and potential impact on the project.
+
+-----
+The business case justifies the project and is used to determine whether the expected outcomes justify the required investment. The available budget is not used to support the justification for the project.
+
+The business case is based on one or more of the following: market demand, organizational need, customer request, technology advancement, legal requirements, ecological impacts, or social need.
