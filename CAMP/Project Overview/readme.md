@@ -137,3 +137,15 @@ Plan Stakeholder Engagement is the process of developing approaches to involve p
 The business case justifies the project and is used to determine whether the expected outcomes justify the required investment. The available budget is not used to support the justification for the project.
 
 The business case is based on one or more of the following: market demand, organizational need, customer request, technology advancement, legal requirements, ecological impacts, or social need.
+
+----
+Commercial databases are databases that include standardized cost-estimating data and industry risk study information. Projects exist and operate in environments that may have an influence on them. These influences can have a favorable or unfavorable impact on the project. There are two major categories of influences: Enterprise Environmental Factors (EEFs) and Organizational Process Assets (OPAs).
+
+Enterprise environmental factors originate from the environment outside of the project and often outside of the enterprise. They may have an impact at the organizational, portfolio, program, or project level. They can be internal or external to the organization. EEFs are considered inputs to many project management processes, specifically for most Planning processes.
+
+----
+Program managers manage groups of projects that are put together because managing them collectively gives benefit opportunities that do not exist for the projects on an individual basis. 
+
+Project manager is incorrect, as it is a role that manages projects individually, not as groups. Portfolio manager is incorrect because it is a role that manages groups of projects to achieve strategic goals. Multi-project manager is incorrect, as it is not a real role. 
+
+----
