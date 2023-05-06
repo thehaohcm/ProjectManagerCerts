@@ -16,25 +16,23 @@ Variance analysis should be used when needing to compare the project's actual re
 
 
 ---
-The Complete Performance Index (TCPI) is a measure of the cost performance that must be achieved with the remaining resources to meet a specified management goal. In other words, it is the efficiency needed to finish the project on budget; it is the ratio between budgeted cost of work remaining and money remaining. TCPI is used in Control Costs (7.4) and the formulas are as follows:
+The Complete Performance Index (TCP) is a measure of the cost performance that must be achieved with the remaining resources to meet a specified management goal expressed as the ratio of the cost to finish the outstanding work to the budget available.
+To calculate the efficiency that must be maintained to complete on plan, use the following formula:
 
-Under Budget Formula
+TCPI = (BAC - EV) / (BAC - AC)
 
-(BAC - EV) / (BAC - AC)
++ TCPI> 1.0 is harder to complete
++ TCPI = 1.0 is same to complete
++ TCPI< 1.0 is easier to complete
 
-> 1 harder to complete; < 1 easier to complete
+To calculate the efficiency that must be maintained to complete the current EAC, use the following formula:
 
-Over Budget Formula
+TCPI = (BAC - EV) / (EAC - AC)
 
-(BAC - EV) / (EAC - AC)
++ TCPI> 1.0 is harder to complete
++ TCPI = 1.0 is same to complete
++ TCPI < 1.0 is easier to complete
 
-> 1 harder to complete; < 1 easier to complete
-
-Estimate At Completion (EAC) is the estimated total amount of money needed to be put into the project based on the information available today.
-
-Budget At completion (BAC) is the sum of all budgets established for the work to be performed.
-
-Schedule Performance Index (SPI) is the ratio between Earned Value (EV) and Planned Value (PV), to reflect whether the project work is ahead of, on, or behind schedule in relative terms.
 
 -----
 Return on Investment (ROI) is a measure of the amount of financial return compared to the cost. ROI is often part of the decision-making process to proceed with a project. It is important to understand that ROI may be different at different times during the lifecycle of a project. However, measuring ROI throughout the project enables the team to evaluate if they should continue organizational resource investments.
