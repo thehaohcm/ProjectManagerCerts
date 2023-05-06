@@ -2,9 +2,19 @@ An adaptive lifecycle project => Agile methology => Servant leadership type
 Agile Manifesto: Focus on the delivery of functionality to achieve business value
 Agile teams are cross-functional and rely on the knowledge of the group to get the work done
 
+---
+
 The types of PMOs are supportive, controlling, and directive. Indirective is a made-up PMO. 
 A controlling PMO offers support and requires compliance through various means
 A controlling project management office supports the project through frameworks and methodologies.
+
+A Project Management Office (PMO) is an organizational structure that standardizes the project-related governance processes and facilitates the sharing of resources, methodologies, tools, and techniques. There are several types of PMOs in organizations. Each type varies in the amount of control and influence it has on projects within the organization.
+
+ + Supportive: Supportive PMOs provide a consultative role to projects by supplying templates, best practices, training, access to information, and lessons learned from other projects. The degree of control provided by this PMO is low.
+ + Controlling: Controlling PMOs provide support and require compliance through various means. The degree of control provided by this PMO is moderate. Compliance may involve adoptions of project management frameworks or methodologies; use of specific templates, forms, and tools; and conformance to governance frameworks.
+ + Directive: Directive PMOs take control of the projects by directly managing the projects. Project managers are assigned by and report to the PMO. The degree of control provided by this PMO is high.
+
+----
 
 Trend analysis should be used when needing to examine the past results of the project to see if its performance is improving or deteriorating. A trend analysis uses mathematical models to forecast future outcomes based on historical results. 
 
