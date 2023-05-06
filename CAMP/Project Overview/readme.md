@@ -16,7 +16,7 @@ Variance analysis should be used when needing to compare the project's actual re
 
 
 ---
-The Complete Performance Index (TCP) is a measure of the cost performance that must be achieved with the remaining resources to meet a specified management goal expressed as the ratio of the cost to finish the outstanding work to the budget available.
+To Complete Performance Index (TCP) is a measure of the cost performance that must be achieved with the remaining resources to meet a specified management goal expressed as the ratio of the cost to finish the outstanding work to the budget available.
 To calculate the efficiency that must be maintained to complete on plan, use the following formula:
 
 TCPI = (BAC - EV) / (BAC - AC)
