@@ -149,3 +149,40 @@ Program managers manage groups of projects that are put together because managin
 Project manager is incorrect, as it is a role that manages projects individually, not as groups. Portfolio manager is incorrect because it is a role that manages groups of projects to achieve strategic goals. Multi-project manager is incorrect, as it is not a real role. 
 
 ----
+There are 5 power source of Project Manager:
+1. Expert Power
+2. Information Power
+3. Social Power
+4. Reference Power
+5. Legitimate Power: A PM work as a team's leader, who decide and give a demand to ask team members work as his/her request.
+  - Positional Power is a sub type of Legitimate Power
+
+Interpersonal and team skills used in the Develop Team process include conflict management, influencing, motivation, negotiation, and team building.
+
+A key action of Conduct Procurements is receiving presentations from various sellers. Presentations from sellers can be given as demos or during a bidder conference.
+
+Requesting changes, reporting performance, and reviewing cost submittals are all key actions of Control Procurements.
+
+The cost baseline is an element of the Project Management Plan that may be updated as a result of the Control Procurements process, not an organizational process asset update.
+
+Agreement is used to define initial intentions for a project
+
+The stakeholder register provides details on the project participants and their interests in the project. Names, titles, and business interests of all known participants make up this register.
+
+The stakeholder register is considered an output for the Identify Stakeholders process and should include information such as:
+Identification information: name, organizational position, location and contact details, and role on the project
+Assessment information: Major requirements, expectations, potential for influencing project outcomes, and the phase of the project lifecycle where the stakeholder has the most influence or impact
+Stakeholder classification: Internal/external, impact/influence/power/interest, upward/downward/outward/sideward, or any other classification model chosen by the project manager
+
+When evaluating project team members using a multi-criteria analysis tool, influence is not a factor. The criteria used to score team members include availability, cost, ability, experience, knowledge, skills, attitude, and international factors.
+
+The Validate Scope process is the process of formalizing acceptance of the completed project deliverables.
+
+Stakeholders' expectations and risk thresholds is not an organizational process asset that may influence the Monitor and Control Project Work process. It is an enterprise environmental factor.
+
+The cost performance index is not one of the seven basic quality tools. It is the measure of the cost efficiency of budgeted resources.
+
+Payback period is best described as the length of time required to recoup the cost of a project.
+
+Stakeholder mapping/representation is a data representation technique that can be used to group stakeholders by their qualifications. Power/interest grids and salience models are both classification tools that could help the project manager determine his or her communication level with the stakeholder.
+
