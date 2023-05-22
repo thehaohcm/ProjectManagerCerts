@@ -186,3 +186,149 @@ Payback period is best described as the length of time required to recoup the co
 
 Stakeholder mapping/representation is a data representation technique that can be used to group stakeholders by their qualifications. Power/interest grids and salience models are both classification tools that could help the project manager determine his or her communication level with the stakeholder.
 
+--------
+There are 3 categories of risks in the risk breakdown structure (RBS):
+1. Technical Risk
+2. Management Risk
+3. Commercial Risk
+4. External Risk
+
+Regulatory and legislation risks are considered external risks, as they are outside the control of the organization
+
+--------
+The Conduct Procurement process is the process of obtaining seller responses, selecting a seller, and awarding a contract.
+
+The Plan Procurement Management process handles documenting procurement decisions, specifying the approach, and identifying potential sellers. 
+
+The Control Procurements process is responsible for managing procurement relationships, monitoring contract performance, and making changes as needed.
+
+--------
+A delayed project is not an example of why a project may be closed prematurely. Aborted projects, canceled projects, and projects with critical situations are all examples of projects that may be closed prematurely.
+
+---------
+The project exit criteria section of the project charter explains what conditions are to be met in order to close a project phase.
+
+The business case section of the project charter explains why the project is being done.
+
+The high-level project risks section of the project charter explains what the potential threats and opportunities are for the project.
+
+The measurable project objectives section of the project charter explains how the project ties into the organization's strategic goals.
+
+--------
+The Schedule Performance Index (SPI) is a measure of schedule efficiency expressed as the ratio of earned value to planned value
+
+--------
+Quality improvement methods:
++ Plan-Do-Check-Act (PDCA) (aka. Deming Cycle or Shewhart Cycle) and Six Sigma are both methods for continual improvement which can improve the quality of project management and the quality of the end product, service, or result.
+
++ Total quality management (TCM) and mutual benefit is incorrect as mutual benefit is not a method of quality improvement, it refers to an emerging trend in quality management having to do with partnerships with suppliers.
+
++ Lean Six Sigma and attribute sampling is incorrect as attribute sampling is not a method of quality improvement, it refers to a method of sampling for testing quality.
+
+-------
+The Develop Team process within the Project Resource Management knowledge area uses virtual teams. Virtual teams are also found in the Acquire Resources process.
+
+------
+Identify all possible stakeholders, analyze the impact or support each stakeholder may generate, and evaluate how each stakeholder may react or respond to various situations
+
+-------
+Identify all possible stakeholders, analyze the impact or support each stakeholder may generate, and evaluate how each stakeholder may react or respond to various situations
+
+-------
+When managing remote teams, it is often challenging to find a time for meetings when all team members can be available during their normal working hours, especially when operating in different time zones. Until a resolution can be found, this is an issue that should be appropriately logged in the issue log.
+
+-------
+Change control procedures and processes are part of the organizational process assets under the Perform Integrated Change Control process
+
+-------
+Obtaining the customer's formal acceptance or formal sign-off should help prevent them from asking for additional scope to be added to a project after the project team has been released to work on other projects. The formal acceptance and formal sign-off from the customer denote that the customer agrees the project is finished. This is called accepted deliverables.
+
+-------
+A path convergence is a relationship in which a schedule activity has more than one predecessor.
+
+A path divergence is a relationship in which a schedule activity has more than one successor. 
+
+A lead is the amount of time a successor activity can be advanced. 
+
+A lag is the amount of time a successor activity can be delayed.
+
+------
+PMI Talent Triangle is a set of 3 fields combined as a skill framework:
++ Strategic and business management skills can also be defined as the skills needed to effectively apply project management knowledge to deliver desired outcomes for projects.
+
++ Leadership skills refer to skills used to motivate and guide teams of people toward a goal. 
+
++ Technical project management skills refer to the technical aspects of performing one's role.
+
+Management skills are not part of the PMI Talent Triangle, but management refers to a style which differs from leadership in key ways. 
+
+-------
+A business case describes the project's objectives.
+
+A project charter is a document that formally authorizes the project and provides the project manager with the authority to apply organizational resources to project activities.
+
+A project management plan describes how a project will be executed, monitored, and controlled. 
+
+Organizational process assets are the plans, processes, policies, procedures, and knowledge bases that are specific to and used by the performing organization
+
+------
+An existing philosophy or accepted business practice within a company is an example of organizational culture. 
+Organizational culture, infrastructure, personnel administration, and marketplace conditions are all examples of enterprise environmental factors that could impact the Plan Scope Management process.
+
+Historical information and policies and procedures are examples of organizational process assets that could influence the Plan Scope Management process.
+
+------
+After the project manager has finished all of the technical work for the project, he still needs to complete the lessons learned. Lessons learned and knowledge gained throughout the project are transferred to the lessons learned repository for use by future projects.
+
+Collecting the requirements and creating the work breakdown structure are both done in the Planning process group, and the project manager is now in the closing process group. The validate scope action is done in the Monitoring and Controlling process group.
+
+------
+Knowledge is commonly split into two types:
+
+Explicit (knowledge that can readily be codified using words, pictures, and numbers)
+Tacit (knowledge that is personal and difficult to express, such as belief, insights, experience, and "know-how")
+
+-------
+The most common examples of leadership styles include, but are not limited to:
++ Laissez-faire: Interpreted as “hands-off”, this project manager’s leadership style tends to just let their team lead themselves. Teams are left to make decisions, set goals, and implement their own ideas in completing the assigned tasks.
++ Transactional: This style focuses on goals, feedback, and ways to determine the rewards a person gets. A project manager with a transactional style will usually be rigid in implementing rules, processes, and procedures. They will even implement something called reward and punishment so that the team is always disciplined in implementing the values it has created.
++ Servant leader: A project manager with this style usually has traits such as: focus on others, growth, learning, shared prosperity, relationship orientation, and team collaboration.
++ Transformational: This leadership style has characteristics such as: empowering the team through ideal attributes and behaviors, inspirational motivation, encouraging innovation and creativity, and individual consideration. The main characteristic of the transformational leadership style is inspiration.
++ Charismatic: The main characteristics of a leader with a charismatic style include: high energy, enthusiasm, strong belief, and self-confidence. These personality traits then carry persuasive power to the team or its followers.
++ Interactional: A combination of transactional, transformational, and charismatic. Project managers with an interactional style consider variables such as the work environment, corporate culture, market challenges, conflict and complexity, and the influence of leaders on the business.
+
+-------
+Tailoring project management to a project is the selection of appropriate processes, inputs, tools, techniques, outputs, and life cycle phases, which the project manager collaborates with the project team, sponsor, or organizational management to decide. 
+Tailoring is necessary because each project is unique and should consider the constraints of scope, schedule, cost, resources, quality, and risk. The project manager should record the impacts of tailoring during Closing, which includes obtaining acceptance, conducting reviews, documenting lessons learned, updating assets, archiving project documents, closing procurement activities, and releasing resources.
+
+-------
+A stakeholder engagement assessment matrix is a useful tool for determining stakeholder engagement levels. Gaps between current and desired levels can be identified, and actions to close these gaps can be determined using expert judgment. Stakeholder engagement levels can be classified as:
++ Unaware: unaware of the project and potential impacts
++ Resistant: aware of the project but are resistant to any changes that may occur as a result of the outcomes of the project
++ Neutral: aware of the project but are neither supportive nor unsupportive
++ Supportive: aware of the project and supportive of its outcomes
++Leading: aware of the project and are actively engaged in ensuring project success
+
+-------
+Verification is the evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process; therefore, the responsibility for verification would fall on the buyer, to ensure the seller provided the deliverables according to the accepted requirements.
+
+-------
+Plan Stakeholder Engagement is the process of developing appropriate approaches to effectively engage stakeholders throughout the project lifecycle, based on the analysis of their needs, interests, and potential impact on project success.
+
+-------
+PMO's responsibility: Standardize project governance and enable sharing of resources
+
+Standardize project governance and enable sharing of resources is correct. While the other options may be part of a PMO's role within an organization, standardizing project-related governance and sharing of resources is common to all PMO types.
+
+Conduct and publish performance reviews is incorrect, although that might be part of a PMO's role. Support organizational strategic alignment is incorrect, again, though it may be part of a PMO's role, it is not required of all PMOs. Enforce compliance is incorrect as certain types of PMO structures may enforce compliance, but it is not true of every PMO.
+
+--------
+Define activities , the key benefit is to decompose work packages inti schedule activities
+
+--------
+When creating reports for government bodies, the project manager should use formal communication.
+
+Formal communication is a type of communication that follows a set structure and uses official language. It is typically used in professional settings, such as when communicating with government bodies, and is often necessary for legal or regulatory reasons.
+
+Using formal communication ensures that the report is clear, concise, and professional, and helps to avoid misunderstandings or confusion. It also demonstrates respect for the recipient and their position, and can help to establish a positive relationship with the government body.
+
