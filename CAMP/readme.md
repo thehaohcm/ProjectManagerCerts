@@ -1,1 +1,1 @@
-![alt text](https://github.com/thehaohcm/ProjectManagerCerts/blob/master/CAPM/PMI-CAPM-Cert.png)
+![alt text](https://github.com/thehaohcm/ProjectManagerCerts/blob/master/CAMP/PMI-CAPM-Cert.png)
