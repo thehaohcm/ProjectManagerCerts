@@ -1,0 +1,47 @@
+The Traditional PM Mindset
+- Identification and analysis of stackholders is something that is done throughout the project not jsut at the beginning.
+- Always follow a plan and never allow changes to the plan without an aproved change request.
+- Any stakeholder that wants to change any component of the project management plan will need to submit a change request.
+- All change requests will need to be reviewed and assessed.
+- Never take actions without first creating a plan.
+- Consult with the project team before making decisions, as they will have a more pratical approach.
+- Your final decision should always benefit the objectives of the project. For example, if there are conflicting methods on how to complete a particular task, then choose the method that would deliver the most value to the project outcome.
+- Try to use tools that are inclusive such as a whiteboard with a marker versus complex software.
+- All scope changes should be assessed on how it will impact all other parts of the project including schedule, cost, quality, resources, communications, risk, procurement, and stakeholder management.
+- When conducting estimating uses a bottom-up approach and not a top-down. This will lead to more correct estimates but will require more work.
+- Your man job is to be an integrator of the many different components within a project. Do not concentrate your time and efforts on one particular thing while ignoring others.
+- Update the lesson learned register throughout the entire project. This way it can be transferred to future projects in the organization.
+- When closing the project ensure all bills are paid off and resources are released.
+- Projects that are terminated early still needs to be close to formally through the close project or phase process.
+- The best people to break down work is the project team.
+- The best people to determine when a particular activity may happen is also the project team.
+- Quality requirements should be defined early in the project and be checked often ensure they are getting done.
+- The customers are the best people to check a deliverable for scope conference and quality requirements being met as they are the ones that will actually use the product.
+- Before resolving a conflict between team members be sure to understand the source of the conflict.
+- Conflicts between team member should always be resolved for the benefits of the project objectives not to satify one member over another.
+- Before communications are sent out to stakeholders, ensure to analyze their needs and determine what they're looking for, how often, what method they would like it to be delivered, and who will deliver it to them.
+- Utilize the skills of emotional intelligence to analyze your own feelings and those around you to respond to stakeholders needs and requirements. Emotional intelligence allows you to solve problems quicker and more effectively.
+- Identify as much risk as possible as early as possible on the project. All identified risks should be documented int he risk register along with their corresponding risk responses.
+- A negative risk is known as a threat while positive risk is known as an opportunity. Ensure to identify and document responses to both.
+- When selecting a contract to use on a project with potential sellers, always use a contract that is mutually beneficial to both the seller and the buyer to the overall benefits of the project objectives.
+- Engage stakeholder often and regularly. Use things such as meetings, one-on-one conversations, phone calls, and presentations to engage them.
+- When engaging your stakeholders ensure they understand the communications that they are receiving. Tailor your communications to individual stakeholder needs.
+
+The Agile PM Mindset:
+- Be a servant leader to the team at all times. This includes empowering them and removing any impediments. Give them the tools they need to succeed while staying out of their way.
+- Engage the product owner to document the features and to prioritize them in the product backlog.
+- Only the product owner can prioritize the features in the product backlog. If the product owner refuses to do so because they feel all of them are valuable, then you must train them on the benefits of doing so. DO NOT prioritize the features yourself, this is the job of the product owner.
+- Use a co-location.
+- Face-to-face communications with a white board and markers are the best form of communications.
+- Provide agile teams with lots wall space so they can write on them and use sticky notes.
+- Information should always be radiated through the use of large charts and graphs, such as the use of a burnup or burned down chart.
+- Any problem that occurs on a project should be resolved by the project team. Always let the project team choose a solution while coaching and supporting their solutions.
+- Provide a safe environment for disagreements. Do not punish anyone for having a difference of opinion. Understand that conflicts is a positive step and an opportunity to learn.
+- Try to limit the work in progress through thu use of the Kanban. Kanban boards should be displayed either on a large whiteboard or less desirable large monitor.
+- Consistently communicate and re-communicate the project vision to the team.
+- Understand the needs of your team members and find out what may motivate them.
+- Make sure people understand what failure and success will look like on the project.
+- Be a central figure to the team, not a dictator.
+- Have good ethical values.
+- Review the methods work was completed by doing a retrospective.
+- Utilize feedback loops. Feedback loops occurs when you've completed the task and then take what you've learned form that and input the lesson learned into your next task
