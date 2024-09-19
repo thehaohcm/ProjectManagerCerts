@@ -12,7 +12,7 @@ The Traditional PM Mindset
 - Your man job is to be an integrator of the many different components within a project. Do not concentrate your time and efforts on one particular thing while ignoring others.
 - Update the lesson learned register throughout the entire project. This way it can be transferred to future projects in the organization.
 - When closing the project ensure all bills are paid off and resources are released.
-- Projects that are terminated early still needs to be close to formally through the close project or phase process.
+- Projects that are terminated early still needs to be close formally through the close project or phase process.
 - The best people to break down work is the project team.
 - The best people to determine when a particular activity may happen is also the project team.
 - Quality requirements should be defined early in the project and be checked often ensure they are getting done.
