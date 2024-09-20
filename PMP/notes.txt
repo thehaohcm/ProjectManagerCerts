@@ -46,6 +46,30 @@ The Agile PM Mindset:
 - Review the methods work was completed by doing a retrospective.
 - Utilize feedback loops. Feedback loops occurs when you've completed the task and then take what you've learned form that and input the lesson learned into your next task
 
+Formulars in PMP exam:
+- BAC (Budget At Completion): Original budget of the project.
+- AC (Actual Cost): Amount of money you already spent on the project.
+
+- PV (Planned Value): Amount of money worth of work we that should have been done on the project
+  - PV = Planned % Completed x BAC
+- EV (Earned Value): Amount of money worth of work you actually did on the project.
+  - EV = Actual % Completed x BAC
+- CV (Cost Variance) 
+  - CV = EV - AC
+- SV (Schedule Variance)
+  - SV = EV - PV
+- CPI (Cost Performance Index)
+  - CPI = EV / AC
+- SPI (Schedule Performance Index)
+  - SPI = EV / PV
+- EAC (Estimate At Completion)
+  - EAC = BAC / CPI
+- ETC (Estimate To Completion)
+  - ETC = EAC - AC
+- VAC (Variance At Completion)
+  - VAC = BAC - EAC
+- TCPI (To-Complete Performance Index) 
+  - TCPI = (BAC - EV) / (BAC - AC) 
 
 Theories & models in PMP exam:
 
@@ -77,7 +101,7 @@ similar to Maslow's Hierarchy of Needs, but it focuses on existence, relatedness
 3. growth needs (are fulfilled by personal achievement and self-actualization.
 
 McGregor's Theory X & Theory Y
-Theory X: when the management believe that: 
+Theory X (bad): when the management believe that: 
 - The average worker, who has an inherent dislike of work and will avoid it if possible. 
 - They must be controlled before they will work hard enough.
 - They prefer to be directed and dislike responsibility.
@@ -86,7 +110,7 @@ Theory X: when the management believe that:
 - Management don't trust employee
 - Theory X manager can be a difficult person to work with.
 
-Theory Y: when the management believe that:
+Theory Y (good): when the management believe that:
 - The average worker wants to be active and finds the physical and mental effort on the job to be satifying.
 - The greatest results come from willing participation, which will tend to produce self-dicrection toward goals without coercion or control.
 - The avaerage worker seeks the opportunity for personal improvement and self-respsect.
@@ -128,3 +152,29 @@ There are 3 kinds of People needs:
 Vroom's Expectancy Theory
 The theory supports the concept of the reward being tied to performance, and ensuring that the reward is what the employee wants. It emphasizes the links between behavior, rewards, and the organization’s goals.
 
+Expectanry Theory:
+People behave based on what they expect as a result of their behavior.
+
+Forms of Power:
+- Reward Power: Ability to give rewards.
+- Expert Power: SME
+- Legitimate (formal power)
+- Referent: Respsect/Personality of the Manager
+- Punishment: Punish associates when they fail (least desirable)
+
+Drelex/Sibbet Team Performance Model:
+Step 1 to step 4 describe the stages in creating a projec team
+Step 5 through 7 cover project team sustainability and performance
+- Step 1: Orientation: Why
+- Step 2: Trust building: Who
+- Step 3: Goal clarification: What
+- Step 4: Commitment: How, define the plan
+- Step 5: Implementation: Starts working
+- Step 6: High performance: Reach a high level
+- Step 7: Renewal: Working through changes
+
+Notes:
+- Ishikawa Diagram: Causes of defects
+- Parento diagram: Histogram
+- Scatter diagram: Show trends
+- Control chart: Rule of seven
