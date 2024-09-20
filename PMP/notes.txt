@@ -45,3 +45,86 @@ The Agile PM Mindset:
 - Have good ethical values.
 - Review the methods work was completed by doing a retrospective.
 - Utilize feedback loops. Feedback loops occurs when you've completed the task and then take what you've learned form that and input the lesson learned into your next task
+
+
+Theories & models in PMP exam:
+
+Tuckman's Five Stage:
+1. Forming
+2. Storming
+3. Norming
+4. Performing
+5. Adjourning
+
+Retrospective stages:
+1. Set stage
+2. Gather data
+3. Generate Insights
+4. Decide what to do
+5. Close Retrospective
+
+Maslow's Hierarchy of Needs (represent the 5 levels of basic human needs):
+1. Physiological
+2. Safety
+3. Social
+4. Esteem
+5. Self-actualization
+
+ERG Theory
+similar to Maslow's Hierarchy of Needs, but it focuses on existence, relatedness, and growth needs.
+1. existence (including the needs of food, drink, shelter, and saftety)
+2. relatedness needs (include the need to feel connected to other individuals or a group. Relatedness needs are fulfilled by establishing and maintaining relationships.)
+3. growth needs (are fulfilled by personal achievement and self-actualization.
+
+McGregor's Theory X & Theory Y
+Theory X: when the management believe that: 
+- The average worker, who has an inherent dislike of work and will avoid it if possible. 
+- They must be controlled before they will work hard enough.
+- They prefer to be directed and dislike responsibility.
+- They are not ambitious, and desires security above everything else.
+- They need micro-manager
+- Management don't trust employee
+- Theory X manager can be a difficult person to work with.
+
+Theory Y: when the management believe that:
+- The average worker wants to be active and finds the physical and mental effort on the job to be satifying.
+- The greatest results come from willing participation, which will tend to produce self-dicrection toward goals without coercion or control.
+- The avaerage worker seeks the opportunity for personal improvement and self-respsect.
+- Imagination, creativity, and ingenutiy can be used to solved work problems by a large number of employees
+
+Ouchi Theory Z: 
+- Enhance motivation
+- Increase employee loyalty
+- Encourage steady employement
+- Management looks at the wellbeing of the employees
+- Provides work for them at work and outside work
+
+
+Herzberg's Motivation-Hygiene Theory:
+Hygiene Factors (don't motivate a worker to perform, but if they are not implemented, can lead to employee dissatisfication) :
+- Policies
+- Administration
+- Working conditions
+- Salary
+- Satus
+- Supervision
+- Security
+
+Motivation Factors (lead to higher individual performance):
+- Achievement
+- Recognition
+- Growth
+- Advancement
+- Interest in the job
+- Job challenge
+
+McClelland's Theory of Needs:
+People are motivated by power, achievement, or affilitation, and that how you manage a person is different based on what motivates taht individual.
+There are 3 kinds of People needs:
+- Power: These people like to organize, motivate, and lead others. Rewards should be focused on giving them more responsibility.
+- Achievement: These people are result oriented. They like to reach a goal and be recognized for it. They like challenges that are reasonable.
+- Affiliation: These people seek acceptance and belonging. They like being part of a team.
+
+Vroom's Expectancy Theory
+The theory supports the concept of the reward being tied to performance, and ensuring that the reward is what the employee wants. It emphasizes the links between behavior, rewards, and the organization’s goals.
+
