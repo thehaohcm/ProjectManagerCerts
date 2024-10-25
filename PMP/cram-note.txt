@@ -1,0 +1,84 @@
+Defination: 
+
+Project:
+  - A temporary endeavor that produces a unique product, service, or result.
+  - temporary in nature and has a definite beginning and ending
+ 
+Operation Management:
+  - Deals with the ongoing production of goods and/or Services
+  - Considers the acquisition, development, and utilization of resources that firms need to deliver the goods and services
+
+Project Management:
+  - is the application of knowledge, skills, tools, and techniques to satisfy project requirements.
+    + Preparing a business case to justify the investment.
+    + Estimating resources and times
+    + Developing and implementing a management plan for the project.
+    + Leading and motivating the project delivery team.
+    + Managing the risks, issues, and changes on the project
+    + Monitoring progress against plan
+    + Closing the project in a controlled fashion when approriate
+
+-------
+Program Management:
+  - Group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually.
+    + Must be some value add in managing them together as a program.
+    + A project may or may not be part of a program, but a program will always have projects. 
+
+Portfolio Management:
+  - is a collection of projects, programs, subsidiary porfolios, and operations managed as a group to achieve strategic objectives.
+    + Collections of Projects, Programs, subsidiarity Portfolios.
+    + Achieve strategic (long term) objectives.
+
+Remember:
+  - A program is a collection of projects.
+  - A portfolio is a collection of projects and programs.
+
+-------
+Value of Projects:
+  - What values will this project bring to the company upon completion?
+  - Why should we undertake this project?
+  - Money, Brand reputation, Customer Service, New or Change product or Service
+
+Projects enable changes:
+  - Project can be a vehicle for change in an organization.
+  - Takes a company form a current state to desired state
+
+-------
+Phases:
+  - is a collection of logically related project activities that culminates in the conmpletion of one or more deliverables.
+    + The number of the phases depends on the industry type and size and the complixity of the project.
+
+Deliverables:
+  - is any unique and verifiable product, service or result.
+    + May be tangiable or intangible.
+    + Must be accepted by the customer or sponsor for the phase
+
+Remember:
+  - Phases and number of phases is determined by project manager.
+  - A phase will output a deliverable.
+
+-------
+Project Life cycle:
+  - A representation of the phases that a project typically goes through from start to finish.
+  - Can be either predictive or adaptive or hybrid.
+
+There are 3 kinds of the Project life cycles:
+  - Predictive project (aka Plan-Driven, Traditional project)
+  - Change-Driven (aka Agile method): includes things like iterative, incremental and adaptive.
+  - Hybrid: combination between 2 above methods.
+
+Remember: 
+  - The project lifecycle are all the phases that we go through on the project.
+  - They could be managed in basically on of three ways either predictive, agile, or hybrid.
+
+--------
+Stakeholders:
+  - Individuals, groups, or organization that may affect, be affected, or perceive to be affected by the project.
+
+Key stakeholders:
+  - Project Manager: manages the project.
+  - Customer: uses the project deliverable.
+  - Project team: the collection of individuals completing the project work
+  - Project sponsor: Provides resources and support
+      - Functional Manager: Department Manager (i.e Manager of Engineering, Vice President of Marketin, Director of IT) generally controls resources.
+      
