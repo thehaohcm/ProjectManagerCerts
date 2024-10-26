@@ -233,3 +233,93 @@ Project vs General Management Principles
         - Trustworthiness
         - Compliance
         - A holistic view of stewardship considers finacial, social, technical, and sustainable environment awareness
+
+  2. Create a collaborative project team environment
+    - Team
+      + Project teams are made up of individuals who wield diverse skills, knowledge, and experience. Project teams that work collaboratively can accomplish a shared objective more effectively and efficiently than individuals working on their own.
+        - Projects can delivered by project teams.
+        - Project teams work within organizational and professional cultures and guidelines, often establishing their own "local" culture.
+        - A collaborative project team environment facilitates: alignment with other organizational cultures and guidelines, individual and team learning and development, and optimal contributions to deliver desired outcomes.
+
+  3. Effectively engage with stakeholders.
+    - Stakeholders
+      + Engage stakeholders proactively and to the point needed to contribute to project success and customer satification.
+        - Stakeholder influence projects, performance, and outcomes.
+        - Project teams serve other stakeholders by engaging with them.
+        - Stakeholder engagement proactively advances values delivery.
+
+Remember:
+  1. Always be a good steward, be an honest person, have good integrity.
+  2: Work with your team, build an environment that the team can share information, they can collaborate with each other. 
+  3. Keep your stakeholders actively involved, keep getting requirements, keep showing things, bring them into the project. Because the more they're involved, the more likely your project is successful.
+
+  4. Focus on value
+    - Value
+      + Value is the worth, importance, or usefulness of something. Value is subjective, in the sense that the same concept can have different value for different people or organizations.
+        - Value is the ultimate indicator of project success.
+        - Value can be realized throughout the project, at the end of the project, or after the project is complete.
+        - Values, and the benefits that contribute to value, can be defined in quantitative and/or qualitative terms.
+        - A focus on outcomes allows project teams to support the intended benefits that lead to value creation.
+
+  5. Recognize, evaluate, and respond to system interactions.
+    - System thinking
+      + Recognize, evaluate, and respond to the dynamic circumstances within and surronding the project in a holistic way to positively affect project performance.
+        - A project is a system of interdependent and interacting domains of activity.
+        - Systems thinking entails taking a holistic view of how project parts interact with each other and with external systems.
+        - Systems are constantly changing, requiring consistent attentions to the internal and external conditions.
+        - Being responsive to system interaction allows project team to leverage positive outcomes.
+
+  6. Demonstrate leadership behaviors
+    - Leadership
+      + Demonstrate and adapt leadership behaviors to support individual and team needs.
+        - Effective leadership promotes project success and contributes to positive project outcomes.
+        - Any project team member can demonstrate leadership behaviors.
+        - Effective leaders adapt their style to the situation.
+        - Effective leaders recognize differences in motivatio n among project team members.
+        - Leaders demonstrate desired behavior in areas of honesty, integrity, and ethical conduct.
+
+  7. Tailor based on context
+    - Tailor
+      + Design the project development methods based on the needs of the project and its objectives, stakeholders, governance, and the environment.
+        - Each project is unique
+        - Project success is based on adapting to the unique context of the project to determine the most appropriate methods of producing the desired outcomes.
+        - Tailoring the approach is iterative, and therefore is a continuous process throughout the project.
+
+  8. Build quality into processes and deliverables
+    - Quality
+      + Maintain a focus on quality that produces deliverables that meet project objectives and align to the needs, uses, and acceptance requirements set forth by relevant stakeholders.
+        - Project quality entails satisfying stakeholders' expectations and fulfilling project and product requirements.
+        - Quality focuses on meeting acceptance criteria for deliverables.
+        - Project quality entails ensuring project processes are appropriate and as effective as possible.
+
+  9. Navigate complexity
+    - Complexity
+      + Continually evaluate and natigate project complexity so that approachese and plans enable the project team to successfully navigate the project life cycle.
+        - Complexity can emerge at any point during the project.
+        - Complexity can be introduced by events or conditions that affect value, scope, communications, stakeholders, risk, and technological innovation.
+        - Project teams can stay vigilant in identifying elements of complexity and use a variety of methods to reduce the amount or impact of complexity.
+
+  10. Optimize risk responses
+    - Risk
+      + Constantly evaluate exposure to risk, both opportunities and threats, to maximize positive impacts and minimize negative impacts to the project ans its outcomes.
+        - Individual and overall risks can impact projects.
+        - Risks can be positive (opportunities) or negative (threats).
+        - Risks are addressed continually throughout the project.
+        - An organization's risk attitude, appetite, and threshold influence how risk is addressed.
+        - Risk responses should be approriate for the significance of the risk, cost effective, realistic within the project context, agreed to by relevant stakeholders, and owned by a responsble person.
+
+  11. Embrace adaptability and resiliency
+    - Adaptability and resiliency
+      + Build adaptability and resiliency into the organization's and project team's approaches to help the project accommodate change, recover from setbacks, and advance the work of the project.
+        - Adaptability is the ability to respond to changing conditions.
+        - Resiliency is the ability to absorb impacts and to recover quickly from a setback or failure.
+        - Build adaptability and resiliency into the organization's and project team's approaches.
+
+  12. Enable change to achieve the envisioned future state
+    - Change
+      + Prepare those impacted for the adoption and sustainment of new and different behaviors and processes required for the transition from the current state to the intended future state created by the project outcomes.
+        - A structured approach to change helps individuals, groups, and the organization transition from the current state to a future desired state.
+        - Change can originate from internal influences or external sources.
+        - Enabling change can be challenging as not all stakeholders embrace change.
+        - Attempting too much change in a short time can lead to change fatigue and/or resistance.
+        - Stakeholder engagement and motivational approaches assist in change adoption.
