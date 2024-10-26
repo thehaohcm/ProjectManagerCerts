@@ -1,4 +1,5 @@
 Defination: 
+Project Management Terms
 
 Project:
   - A temporary endeavor that produces a unique product, service, or result.
@@ -80,5 +81,155 @@ Key stakeholders:
   - Customer: uses the project deliverable.
   - Project team: the collection of individuals completing the project work
   - Project sponsor: Provides resources and support
-      - Functional Manager: Department Manager (i.e Manager of Engineering, Vice President of Marketin, Director of IT) generally controls resources.
-      
+  - Functional Manager: Department Manager (i.e Manager of Engineering, Vice President of Marketin, Director of IT) generally controls resources.
+
+--------
+Organizational Struct Chanrt
+Functional Business:
+  - Project Manager: has Little/No power (actually not a project manager)
+  - Resource Available: Little/No
+  - Budget controls: Functional Manager
+  - PM role: Part time
+  - PM staff: Part time
+=> in this functional business, the functional manager manages everything in the business. The project manager is basically a resource to the functional manager. Functional Manager controls all the budget and they manage all the resources.
+
+Projectized Business (opposite to the Functional Business):
+  - Project Manager: High/Total
+  - Resource Available: High/Total
+  - Budget controls: Project Manager
+  - PM role: Full time
+  - PM staff: Full time
+
+Matrix:
+Weak Matrix:
+  - Project Manager: Low
+  - Resource Available: Low
+  - Budget controls: Functional Manager
+  - PM role: Part time
+  - PM staff: Part time
+Balance Matrix:
+  - Project Manager: Low to Moderate
+  - Resource Available: Low to Moderate
+  - Budget controls: Mixed
+  - PM role: Part time / Full time
+  - PM staff: Part time / Full time
+Strong Matrix:
+  - Project Manager: Moderate to High
+  - Resource Available: Moderate to High
+  - Budget controls: Project Manager
+  - PM role: Full time
+  - PM staff: Full time
+
+Remember: 
+  - a lot of organizations have hybrid structures. Ex: in the research and development department, they are may be project ties, but in the sales department, they are may be functional. In the accouting department, they may have more of a balance metrix. Maybe in the IT department, they may have a balance matrix.
+  - Structure of the business determines the power of PM in that business.
+
+---------
+Project Management Office (PMO)
+  - Organizational Structure that standardizes the processes and facilitates the sharing of resources, methologies, tools, and techniques.
+  - Types:
+    + Supportive: Supports the project manager, susch as providing templates, training, or lessons learned form other projects.
+    + Controlling: Determines the framework or methodology and use of specific forms.
+    + Directive: Controls the project. PM will be assigned and report to the PMO.
+
+---------
+Constraints
+  - limited things we have to control when work in the project
+Project constrains (6 constrains): 
+  - Scope
+  - Schedule
+  - Cost
+  - Risk
+  - Quality
+  - Resources
+
+---------
+Project Management Approaches
+2 primary approaches:
+  - Predictive Approach (Traditional or Waterfall): The predictive approach follows a linear and sequential process
+    + It involves detailed plaining and documentation upfront, with a focus on predicting and defining the project scope, objectives, timeline, and deliverables.
+    + Extensive upfront plaining.
+    + Sequential execution.
+    + Emphasis on control and documentation.
+    + Limited flexibility, limited changes with a well define change control process.
+  - Adaptive Approach: focuses on flexibility, collaboration, and iterative development.
+    + It embraces change throughout the project and emphasize continuous feedback and improvement.
+    + Iterative and incremental development.
+    + Customer collaboration.
+    + Emphasis on adaptability.
+    + Self-organizing teams.
+    + The adaptive approach, commonly used in agile methologies like Scrum or Kanban.
+
+Remember:
+  - Predictive approach: follow linear set of steps. Scope doesn't really change as the project is getting done. You have a strenuous change control process.
+  + Adaptive approach: the scope is changing as time in progressing and you're welcome and changes on an agile project.
+
+----------
+Risks vs Issues
+
+Risks: are potential events or situations that may occur in the future and have an impact on the project's success.
+
+Issues: refer to problems or challenges that arise during the course of a project. They are typically negative events or circumstances that hinder process or impact project objective.
+
+Remember:
+  - Risk is something that could potentially affect your project.
+  - Issue is something that is affecting your project.
+
+---------
+Leadership vs Management
+
+Management:
+  - Direct using positional power
+  - Maintain
+  - Administrate
+  - Focus on system and structure
+  - Rely on control
+  - Focus on near-term goles
+  - Ask how and when
+  - Focus on bottom line
+  - Accept status quo
+  - Do things right
+  - Focus on operational issues and problem solving
+
+Leadership:
+  - Guide, influence, and collaborate using relational power
+  - Develop
+  - Innovate
+  - Focus on relationships with people
+  - Inspire trust
+  - Focus on long-range vision
+  - Ask what and why
+  - Focus on the horizon
+  - Challenge status quo
+  - Do the right things
+  - Focus on vision, aligment, motivation, and inspiration
+
+---------
+Emotional Intelligence (EQ)
+
+  - Emotional Intelligence refers to the ability of recognize, understand, and manage emotions, both in oneself and in others.
+  - It involves being aware of one's own emotions, effectively handling them, empathizing with others, and using emotions to guide thinking and behavior.
+  - In project management, EQ plays a significan role
+
+----------
+Project management principles and domains
+
+Project management principles (12 principles)
+  - Principles serves as foundational guidelines for strategy, decision making, and problem solving.
+  - Professional standards and methodologies are often based on principles.
+  - Principles for project management provide guidance for the behavior of people involved in projects.
+
+Project vs General Management Principles
+  - Principles of project management can also have areas of overlap with general management principles
+
+12 Principles:
+  1. Be a Diligent, Respectful, and Caring Steward.
+    - Stewardship
+      + Stewards act sensibility to carry out actions with integrity, care, and trustworthiness while keeping compliance with internal and external guidelines.
+      + They demostrate a broad commitment to finacila, social, and environmental impacts of the projects they support.
+      + Stewardship includes: 
+        - Integrity
+        - Care
+        - Trustworthiness
+        - Compliance
+        - A holistic view of stewardship considers finacial, social, technical, and sustainable environment awareness
