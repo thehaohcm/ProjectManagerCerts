@@ -178,3 +178,5 @@ Notes:
 - Parento diagram: Histogram
 - Scatter diagram: Show trends
 - Control chart: Rule of seven
+
+NPV: already included the no. of years inside, we don't need to take the year no. NPV is greater than => better than
