@@ -323,3 +323,71 @@ Remember:
         - Enabling change can be challenging as not all stakeholders embrace change.
         - Attempting too much change in a short time can lead to change fatigue and/or resistance.
         - Stakeholder engagement and motivational approaches assist in change adoption.
+
+Principles and perfomance domain:
+  - Domains are a group of related activities that are critical for the effective delivery of project outcomes
+  - They operate as an integrated system, with each domain being interdependent of the other domains to enable successful delivery of the project and tis intended outcomes.
+  - The specific activities undertaken within each of the performance domains are determined by the context fo the organization, the project, deliverables, the project team, stakeholders, and other factors.
+
+  1. Stakeholder performance domain
+    - Addresses activities and functions associcated with stakeholders
+      + Effective stakeholder interaction contributes to successful project outcomes.
+      + Stakeholder engagemnet includes implementing strategies and actions to promote productive involvemnet of stakeholders in rpoject decision making and implementation.
+
+  2. Team performance domain
+    - Deals with activities and functions associated with the people who are responsbile for creating project deliverables that realize business outcomes.
+      + The project team is a set of individuals performing tht work of the project to achieve its objectives.
+      + An environment can be established to support the team in evolving into a high performance team.
+      + This includes fostering team development, encouraging leadership behaviors from all project team members and sharing ownership for the outcome.
+
+  3. Development Approach and Life Cycle performance domain
+    - Deals with activities and functions associated with the development approach, cadence, and life cycle phases of the project.
+      + The project deliverables determine the most appropriate development approach such as a predictive, adaptive, or hybrid approach.
+      + The deliverables and the development approach influence the number and cadence fro project deliverables.
+      + The development approach and delivery cadence influence the project life cycle and its phases.
+
+  4. Planning perfomance domain
+    - Deals with activities and functions associated with the initial, ongoing, and evolving organization and coordination necessary for delivering project deliverables and outcomes.
+      + Planning organizes, elaborates, and coordinates work throughout the project.
+      + Planning takes places up front and/or throughout the project.
+      + The amount, timing, and frequency varies depending on the product, development approach, environment, and stakeholders.
+
+  5. Project Work perfomance domain
+    - Deals with activities and functions associated with establishing project processes, managing physical resources, and fostering a learning environment.
+      + Project work is associated with establishing the processes and performing the work to enable the project team to deliver the expected values and outcomes.
+      + Project work includes communication, engagement, managing physical resources, procurements, and other work to keep project operations running smoothly
+
+  6. Project Delivery performance domain
+    - Deals with activities and functions associated with delivering the scope and quality that the project was undertaken to achieve.
+      + Proejct delivery focuses on meeting requirements, scope, and quality expectations to deliver the expected outputs taht will drive intended outcomes.
+      + Projects may use a delivery approach that supports releasing deliverables throughout the project lifecycle, at specific points, or at the end of the project.
+      + Business value often continues to be captured long after the project has ended.
+
+  7. Measurement performance domain
+    - Deals with activities and functions associated with assessing project performance and taking approriate actions to maintain acceptable performance.
+      + Measurement involves assessing project performance and implementing approriate responses to maintain optimal performance.
+      + This domain evaluates the degree to which the project deliveries and perfomance are meeting the intented outcomes.
+      + Having timely and accurate information about delivery and performance allows the team to learn and determine the approriate action to take to address current or expected variances from the desired performance.
+
+  8. Uncertainty performnace domain
+    - Deals with activities and functions associated with risk and uncertainty.
+      + Projects exist in environments with varying degrees of uncertainty, and uncertainty presents threats and opportunities that project teams explore and assess and then decide how to handle.
+      + Uncertainty, in the broadest sense, is a state of now knowing or unpredictability.
+      + There are many nuances to uncertainty, such as:
+        - risk associated with not knowing future events.
+        - ambiguity associated with not being aware of current or future conditions.
+        - complexity associated with dynamic systems with unpredictable outcomes, and many others.
+
+-------------
+OSCAR Model
+
+Situational Leadership Models
+  OSCAR Model - About coaching or leadership styles to support individuals
+    + Outcome: an outcome identifies
+    + Situation: Assess current skills, abilities, and knowledge level of project team member; and how that impacts the individual's performance and peer relationships.
+    + Choices/consequences: Choice and/or consequences identify all the potential avenues for attaining the desired outcome and the consequences of each choice.
+    + Actions: An action commits to specific movement by focusing on immediate and attainable targets.
+    + Review: Doing regular meetings offers support and helps to ensure that individuals remain motivated and on track.
+
+------------
+Change Models
