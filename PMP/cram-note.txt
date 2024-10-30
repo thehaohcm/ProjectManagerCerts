@@ -391,3 +391,16 @@ Situational Leadership Models
 
 ------------
 Change Models
+Managing Chage in Organizations: A Practice Guide [3] is an iterative model that is founded on common elements across a range of change management models.
+  - Formular change.
+  - Plan change.
+  - Implement change.
+  - Manage transition.
+  - Sustain change.
+
+ADKAR Model - focuses on five sequential steps that individuals endure when adapting to change:
+  - Step 1: Awareness: Identify why the change
+  - Step 2: Desire: Desire to support the change
+  - Step 3: Knowledge: How to change
+  - Step 4: Ability: Hands-on practice of change
+  - Step 5: Reinforcement: Rewards
