@@ -70,6 +70,15 @@ Formulars in PMP exam:
   - VAC = BAC - EAC
 - TCPI (To-Complete Performance Index) 
   - TCPI = (BAC - EV) / (BAC - AC) 
+- Net Income (after minus all costs)
+  - Net Income = Return Benefit - Project Cost
+- ROI (Return on Investment)
+  - ROI = (Net Income / Total Investment) * 100%
+        = ((Return Benefit - Project Cost) / Total Investment) * 100%
+- BCR (Benefit Cost Ratio) = PI (Profitability Index)
+  - BCR = PI = Benefit / Cost
+- FV (Future Value)
+  - FV = PV x (1+[interest rate])^[year]
 
 Theories & models in PMP exam:
 
@@ -180,3 +189,36 @@ Notes:
 - Control chart: Rule of seven
 
 NPV: already included the no. of years inside, we don't need to take the year no. NPV is greater than => better than
+
+Kill point is the stage gate or phase review. At the review, the progress of the project is evaluated and a decison is made whether to continue or cancel the project.
+
+Multiple project phases form the overall project lifecycle.
+Ex: we have a several phases in a project: Initialing, Planing, Executing, Controlling & Monitoring, Closing.
+
+In a Weak Matrix Organization, the project manager has title direct authority, works more as a project co-ordinator, and is often part time (and assigned to other tasks as well)
+
+Although you must be aware of customs ans social needs in other countries, your company policy takes precendence over other rules where you are working abroad. At most you should check with your manager and decide on the action to take.
+
+Risk of project failure is at its highest at the beginning of a project, and decreases as items are complete or delivered, until project close.
+https://www.researchgate.net/profile/Muhammad-Jamaluddin-Thaheem/publication/306105102/figure/fig16/AS:614291015229444@1523469799075/Risk-and-project-lifecycle.png
+
+The project manager and functional manager in a balanced matrix have equal authority, the power is shared between them.
+Notice:
+Weak Matrix: Functional Manager manage and has all of things
+Strong Matrix: Project manager manage and has all of things
+Balance Matrix: Functional Manager and Project manager jointly work together and manage everything
+
+The primary objective of a project management office (PMO) is to support the project manager.
+
+Rolling Wave Planning is a type of progressive elaboration where work in the near term is planned in detail, while the work far in the future is planned at a high level.
+
+The project manager is typically assigned at the very beginning of a project, sometimes even having input into the Business Case and the Project Charter
+
+Source Selection Criteria are created to rate seller proposal
+
+As a project advances, project changes form scope creep or error correction have a larger impact on project cost
+
+A feasibility study forms a part of the Business Case, to determine whether the project is feasible or not
+
+While a strong matrix gives you moderate to high control, a Project Management Office give you high to almost total control. 
+if you are in PMO, you can control all 
