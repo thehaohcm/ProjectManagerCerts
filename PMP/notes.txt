@@ -222,3 +222,8 @@ A feasibility study forms a part of the Business Case, to determine whether the 
 
 While a strong matrix gives you moderate to high control, a Project Management Office give you high to almost total control. 
 if you are in PMO, you can control all 
+
+A program manager oversees a group of related projects that are managed together, rather than individually.
+Program manager > project manager
+
+
